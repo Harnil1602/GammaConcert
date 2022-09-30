@@ -1,4 +1,4 @@
-#### GammaConcert
+## GammaConcert
 
 As a part of this hacktoberfest 2022, we would like to introduce a concert & events booking website which will show the upcoming 
 live concerts and events etc. 
